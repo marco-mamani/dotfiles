@@ -1,0 +1,9 @@
+# Nested Git repositories - clone separately on each machine
+.config/alacritty/themes/
+.config/nvim/
+
+# Generated / installed data
+.tmux/plugins/
+.local/
+.cache/
+.cfg/
